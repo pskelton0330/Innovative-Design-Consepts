@@ -1,3 +1,4 @@
+![Installed cap](/assets/img/light-cap.jpg)
 ---
 title: Custom Light-Pole Caps Save $400 k
 layout: post
