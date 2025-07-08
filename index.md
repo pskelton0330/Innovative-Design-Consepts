@@ -1,20 +1,22 @@
 ---
 layout: default
-title: Airport-Grade 3-D Printing & CAD Engineering
+title: 3-D Printing & CAD Engineering
 ---
 
 ## Welcome
-
-I specialise in **scan-to-CAD, DfAM redesign, and short-run FDM production** that
-slash lead-times and rescue obsolete parts for critical infrastructure.
+I save organisations time and money by redesigning obsolete parts, slashing lead-times,
+and delivering custom solutions that don’t exist on the open market.
 
 ### Featured Case Studies
 * [Light-Pole Caps – $400 k saved](./2025-07-08-light-pole-caps.html)
+* 2nd Case Study
+* 3rd Case Study
 
 ### Services
-* Reverse-engineering & Scan-to-CAD  
-* DfAM weight-optimisation  
-* Short-run production (PLA → CF-Nylon)  
-* Technical documentation & SOP creation  
+* Reverse-engineering & CAD model creation  
+* DfAM redesign & weight optimisation  
+* Short-run FDM production (PLA → CF-Nylon)  
+* Technical documentation & SOP creation
+* Innovative solution consulting 
 
-**Contact:** pskelton_330@msn.com
+**Contact:** pskelton0330@gmail.com
