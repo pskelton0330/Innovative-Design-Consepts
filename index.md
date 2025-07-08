@@ -8,7 +8,7 @@ I save organisations time and money by redesigning obsolete parts, slashing lead
 and delivering custom solutions that don’t exist on the open market.
 
 ### Featured Case Studies
-* [Light-Pole Caps – $400 k saved](/2025/07/08/light-pole-caps.html)
+* [Light-Pole Caps – $400 k saved]({{ "/2025/07/08/light-pole-caps.html" | relative_url }})
 * 2nd Case Study
 * 3rd Case Study
 
