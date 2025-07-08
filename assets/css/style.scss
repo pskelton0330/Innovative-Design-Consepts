@@ -4,8 +4,18 @@
 @import "{{ site.theme }}";
 
 body {
-  background-image: url('{{ "/assets/img/background.png" | relative_url }}');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+  background: url('{{ "/assets/img/background.png" | relative_url }}') no-repeat center/cover fixed;
+  color: #fff;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.4);
+  pointer-events: none;
+  z-index: -1;
 }
