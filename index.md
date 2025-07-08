@@ -13,10 +13,10 @@ and delivering custom solutions that don’t exist on the open market.
 * 3rd Case Study
 
 ### Services
-* Reverse-engineering & CAD model creation  
-* DfAM redesign & weight optimisation  
-* Short-run FDM production (PLA → CF-Nylon)  
+* Reverse-engineering & CAD model creation
+* DfAM redesign & weight optimisation
+* Short-run FDM production (PLA → CF-Nylon)
 * Technical documentation & SOP creation
-* Innovative solution consulting 
+* Innovative solution consulting
 
 **Contact:** pskelton0330@gmail.com
