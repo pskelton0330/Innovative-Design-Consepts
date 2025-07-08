@@ -23,7 +23,7 @@
         {% for img in site.static_files %}{% if img.path contains '/assets/' and img.extname == '.png' %}<img src="{{ img.path | relative_url }}" alt="">{% endif %}{% endfor %}
       </div>
       {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+        <!-- GitHub repository link removed -->
       {% endif %}
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>

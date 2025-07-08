@@ -23,6 +23,7 @@ body::before {
 .page-header {
   position: relative;
   overflow: hidden;
+  padding-bottom: 160px; /* ensure content clears the scrolling images */
 }
 
 #cad-scroller {
