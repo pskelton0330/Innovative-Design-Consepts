@@ -20,8 +20,9 @@
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       <div id="typing-overlay"></div>
       <div id="cad-scroller">
-        {% for img in site.static_files %}{% if img.path contains '/assets/' and img.extname == '.png' %}<img src="{{ img.path | relative_url }}" alt="">{% endif %}{% endfor %}
-        {% for img in site.static_files %}{% if img.path contains '/assets/' and img.extname == '.png' %}<img src="{{ img.path | relative_url }}" alt="">{% endif %}{% endfor %}
+        {% assign scroller_images = site.static_files | where_exp: "img", "img.path contains '/assets/' and img.extname == '.png' and img.name != 'background.png' and img.name != 'light-cap.png'" %}
+        {% for img in scroller_images %}<img src="{{ img.path | relative_url }}" alt="">{% endfor %}
+        {% for img in scroller_images %}<img src="{{ img.path | relative_url }}" alt="">{% endfor %}
       </div>
       {% if site.github.is_project_page %}
         <!-- GitHub repository link removed -->
