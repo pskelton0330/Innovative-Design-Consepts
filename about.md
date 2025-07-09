@@ -6,7 +6,7 @@ title: About Me
 ## Patrick Skelton
 **Independent Mechanical & Additive Manufacturing Engineer**
 Northern Virginia
-📞 **703-401-7461**   |   ✉️ pskelton_330@msn.com   |   [LinkedIn](https://www.linkedin.com/in/patskelton)
+📞 [703-401-7461](tel:703-401-7461)   |   ✉️ [pskelton_330@msn.com](mailto:pskelton_330@msn.com)   |   [LinkedIn](https://www.linkedin.com/in/patskelton)
 
 ---
 
