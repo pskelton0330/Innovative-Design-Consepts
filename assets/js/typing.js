@@ -6,7 +6,8 @@ const words = [
   "Invent",
   "Reduce down time",
   "Custom solution",
-  "Prototype"
+  "Rapid prototype",
+  "DfAM: Design for Additive Manufacturing"
 ];
 
 let wordIndex = 0;
