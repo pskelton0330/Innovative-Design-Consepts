@@ -1,6 +1,6 @@
 ---
 title: "Chiller Valve Coupler: 98 % Cost-Cut, Same-Day Spares for Legacy HVAC"
-layout: post
+layout: default
 ---
 
 ![Carbon-fiber-nylon replacement coupler](/assets/img/hvac-coupler.jpg)
