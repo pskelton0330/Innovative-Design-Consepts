@@ -6,7 +6,7 @@ layout: post
 ![Carbon-fiber-nylon replacement coupler](/assets/img/hvac-coupler.jpg)
 
 ### The Challenge  
-A facilities-maintenance customer oversees several **20-year-old chilled-water compressors**. Within two months, **two compressors failed** when a small **plastic motor-shaft coupler** sheared.  
+A facilities-maintenance customer who oversees several **20-year-old chilled-water compressors**. Within two months, **two compressors failed** when a small **plastic motor-shaft coupler** sheared.  
 * OEM no longer manufactures the coupler.  
 * Only way to buy one is to purchase the entire motor-coupler assembly (≈ \$300, **3-month lead time**).  
 * A broken coupler disables a compressor, risking costly downtime during peak summer demand.
