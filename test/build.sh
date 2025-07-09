@@ -1,3 +1,4 @@
 #!/bin/bash
 set -e
-jekyll build
+
+bundle exec jekyll build
