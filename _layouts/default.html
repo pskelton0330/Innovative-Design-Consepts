@@ -22,8 +22,8 @@
       <div id="typing-overlay"></div>
       <div id="cad-scroller">
         {% assign scroller_images = site.static_files | where_exp: "img", "img.path contains '/assets/' and img.extname == '.png' and img.name != 'background.png' and img.name != 'light-cap.png'" %}
-        {% for img in scroller_images %}<img src="{{ img.path | relative_url }}" alt="">{% endfor %}
-        {% for img in scroller_images %}<img src="{{ img.path | relative_url }}" alt="">{% endfor %}
+        {% for img in scroller_images %}<img src="{{ img.path | relative_url }}" alt="CAD render">{% endfor %}
+        {% for img in scroller_images %}<img src="{{ img.path | relative_url }}" alt="CAD render">{% endfor %}
       </div>
       {% if site.github.is_project_page %}
         <!-- GitHub repository link removed -->
