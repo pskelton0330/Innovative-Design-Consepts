@@ -25,6 +25,10 @@
         {% for img in scroller_images %}<img src="{{ img.path | relative_url }}" alt="CAD render">{% endfor %}
         {% for img in scroller_images %}<img src="{{ img.path | relative_url }}" alt="CAD render">{% endfor %}
       </div>
+      <nav class="site-nav">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/about.html' | relative_url }}">About Me</a>
+      </nav>
       {% if site.github.is_project_page %}
         <!-- GitHub repository link removed -->
       {% endif %}
