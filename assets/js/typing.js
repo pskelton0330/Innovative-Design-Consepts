@@ -6,6 +6,7 @@ const words = [
   "Invent",
   "Reduce down time",
   "Custom solution"
+  "Prototype"
 ];
 
 let wordIndex = 0;
