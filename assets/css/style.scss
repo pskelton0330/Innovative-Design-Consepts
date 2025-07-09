@@ -62,3 +62,13 @@ body::before {
   pointer-events: none;
   z-index: 2;
 }
+
+.site-nav {
+  margin-top: 1rem;
+}
+
+.site-nav a {
+  color: #fff;
+  margin-right: 1rem;
+  text-decoration: none;
+}
