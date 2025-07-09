@@ -5,7 +5,7 @@ const words = [
   "Drive down lead times",
   "Invent",
   "Reduce down time",
-  "Custom solution"
+  "Custom solution",
   "Prototype"
 ];
 
