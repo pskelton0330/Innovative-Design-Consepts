@@ -1,8 +1,9 @@
-title: Patrick Skelton – Additive-Manufacturing Engineer
-description: Case studies and services in FDM 3-D printing, scan-to-CAD, and DfAM.
-theme: jekyll-theme-cayman           # free, clean, responsive
+---
+title: "Patrick Skelton – Additive-Manufacturing Engineer"
+description: "Case studies and services in FDM 3-D printing, scan-to-CAD, and DfAM."
+theme: jekyll-theme-cayman
 show_downloads: false
-google_analytics:                    # you can add an ID later
 url: "https://pskelton0330.github.io"
 baseurl: "/Innovative-Design-Consepts"
 company_name: "3D Innovation and Design Concepts"
+---
