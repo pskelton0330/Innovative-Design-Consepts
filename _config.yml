@@ -5,3 +5,4 @@ show_downloads: false
 google_analytics:                    # you can add an ID later
 url: "https://pskelton0330.github.io"
 baseurl: "/Innovative-Design-Consepts"
+company_name: "3D Innovation and Design Concepts"

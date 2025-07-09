@@ -16,8 +16,9 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <h1 class="company-name">{{ site.company_name }}</h1>
+      <h2 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h2>
+      <h3 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h3>
       <div id="typing-overlay"></div>
       <div id="cad-scroller">
         {% for img in site.static_files %}{% if img.path contains '/assets/' and img.extname == '.png' %}<img src="{{ img.path | relative_url }}" alt="">{% endif %}{% endfor %}
