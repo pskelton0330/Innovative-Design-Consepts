@@ -1,12 +1,14 @@
 ---
 layout: default
-title: 3D Innovation and Design Concepts
-description: 3-D Printing & CAD Engineering
+title: "3D Innovation and Design Concepts"
+description: "3-D Printing & CAD Engineering"
 ---
 
 ## Welcome
 I save organizations time and money by redesigning obsolete parts, slashing lead times,
 and delivering custom solutions that don't exist on the open market.
+
+[About Me](about.html)
 
 ### Featured Case Studies
 * [Light-Pole Caps – $400 k saved]({{ "/2025/07/08/light-pole-caps.html" | relative_url }})
@@ -22,4 +24,3 @@ and delivering custom solutions that don't exist on the open market.
 
 **Contact:** pskelton0330@gmail.com
 
-[About Me]({{ '/about.html' | relative_url }})
