@@ -23,4 +23,5 @@ and delivering custom solutions that don't exist on the open market.
 * Innovative solution consulting
 
 **Contact:** pskelton0330@gmail.com
+[About Me](about.html)
 
