@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "3D Innovation and Design Concepts"
-description: "3-D Printing & CAD Engineering"
 ---
 
 ## Welcome
