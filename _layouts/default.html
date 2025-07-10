@@ -1,9 +1,5 @@
----
-layout: default
----
-
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: 'en-US' }}">
   <head>
     <meta charset="UTF-8">
 
@@ -24,11 +20,10 @@ layout: default
       <h2 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h2>
       <h3 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h3>
       <div id="typing-overlay"></div>
-      <div id="cad-scroller">
-        {% assign scroller_images = site.static_files | where_exp: "img", "img.path contains '/assets/' and img.extname == '.png' and img.name != 'background.png' and img.name != 'light-cap.png'" %}
-        {% for img in scroller_images %}<img src="{{ img.path | relative_url }}" alt="CAD render">{% endfor %}
-        {% for img in scroller_images %}<img src="{{ img.path | relative_url }}" alt="CAD render">{% endfor %}
-      </div>
+    <div id="cad-scroller">
+      <img src="{{ '/assets/img/background.png' | relative_url }}" alt="CAD render">
+      <img src="{{ '/assets/img/light-cap.png' | relative_url }}" alt="CAD render">
+    </div>
       <nav class="site-nav">
         <a href="{{ '/' | relative_url }}">Home</a>
         <a href="{{ '/about.html' | relative_url }}">About Me</a>
