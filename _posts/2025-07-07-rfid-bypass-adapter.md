@@ -1,18 +1,18 @@
 ---
 layout: default
-title: "RFID-Bypass Adapter Cuts Soap Costs $500 k/yr"
+title: "Smart Adaptation: 3D Printing Solutions for Facility Maintenance Savings"
 ---
 ### The Challenge
-New terminal restrooms at **Reagan National Airport** included sinks with proprietary Purell® soap dispensers.
-Each refill cartridge has an RFID tag; non-authorized soap is rejected, locking MWAA into **$0.56 / oz** consumables (up from $0.04 / oz). Projected annual over-spend: **≈ $500 000**.
+A customer renovated multiple bathrooms in their large facility without realizing the new built-in sinks featured soap dispensers designed exclusively for proprietary refill cartridges. Each cartridge included an RFID tag that rejected any non-authorized soap, locking the customer into costly consumables at **$0.56 per ounce** (previously **$0.04 per ounce**). The projected annual overspending amounted to approximately **$500,000**.
 
 ### My Solution
-* Disassembled a stock refill, measured the RFID neck, and **designed a screw-on adapter** in Fusion 360.
-* Adapter mates a standard 1-gal bulk soap jug to the existing RFID cap, fooling the faucet’s reader.
-* Printed prototypes in **chemical-resistant PETG-CF**; final units in FDA-compatible polypropylene via Bambu X1C.
-* Delivered STL + print settings; janitorial staff now print spares on demand.
+I developed a custom soap bottle adapter allowing the RFID-tagged nozzle from the proprietary cartridges to screw securely onto the original, cost-effective **$0.04 per ounce** bulk soap refills.
+
+Prototypes were 3D printed using chemical-resistant **ASA** plastic for durability.
+
+Delivered comprehensive CAD and STL files, along with optimized printing profiles, enabling the customer to independently produce adapters using low-cost FDM 3D printers.
 
 ### Impact
-* **≈ $500 000 annual savings** on consumables.
-* Zero changes to plumbing or electronics; swap takes < 30 s.
-* Reduced plastic waste by reusing bulk jugs instead of single-use cartridges.
+* Annual savings on consumables: approximately **$500,000**.
+* No modifications required to existing bathroom facilities.
+* Significant reduction in plastic waste by utilizing reusable bulk jugs instead of disposable cartridges.
