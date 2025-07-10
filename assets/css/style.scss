@@ -76,6 +76,16 @@ body::before {
 /* Improve link readability */
 a {
   text-shadow: 0 0 3px rgba(0,0,0,.6);
+  color: #00ffff;
+}
+
+a:visited {
+  color: #00ffff;
+}
+
+a:hover,
+a:focus {
+  color: #ffff00;
 }
 
 /* Headings: bright green for better visibility (demo) */
