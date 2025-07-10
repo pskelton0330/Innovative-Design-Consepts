@@ -72,3 +72,12 @@ body::before {
   margin-right: 1rem;
   text-decoration: none;
 }
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  color: #00ff00; /* bright green for better visibility */
+}
