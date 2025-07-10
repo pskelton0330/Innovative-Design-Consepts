@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Chiller Valve Coupler: 98 % Cost-Cut, Same-Day Spares for Legacy HVAC"
+title: "Legacy Equipment, Modern Solution: 3D-Printed Couplers Restore Critical Systems"
 ---
+
 ![Carbon-fiber-nylon replacement coupler](/assets/img/hvac-coupler.jpg)
 
-### The Challenge  
-A facilities-maintenance customer who oversees several **20-year-old chilled-water compressors**. Within two months, **two compressors failed** when a small **plastic motor-shaft coupler** sheared.  
-* OEM no longer manufactures the coupler.  
-* Only way to buy one is to purchase the entire motor-coupler assembly (≈ \$300, **3-month lead time**).  
-* A broken coupler disables a compressor, risking costly downtime during peak summer demand.
+### The Challenge
+A facilities-maintenance customer managed several **20-year-old chilled-water compressors**. Over a short period, **two compressors** failed when small **plastic motor-shaft couplers** sheared.
 
-### My Solution  
-1. **On-site measurement** – captured critical dimensions in 30 minutes using digital calipers and reference sketches.  
-2. **DfAM redesign in Fusion 360** – modelled a drop-in replacement with reinforced fillets and a slightly wider hub for longer service life.  
-3. **Rapid prototype** – printed first article in **carbon-fiber nylon** (0.15 mm layers, 40 % gyroid infill).  
-4. **Fit-check & install** – coupler installed within 48 hours; HVAC techs reported perfect alignment and torque transfer.  
-5. **Digital inventory delivered** – provided STL/STEP files, material specs, and print profile so the shop can print spares on demand.  
-6. **Batch of four spares** printed (≈ 45 min each, < \$5 in material).
+- Original equipment manufacturer (OEM) had discontinued the couplers.
+- Replacement required purchasing an entire motor-coupler assembly (~$300 each, with extensive lead times).
+- Each broken coupler rendered a compressor inoperable, risking significant downtime, especially during peak demand periods.
 
-### Impact  
-* **Downtime averted** – compressors back online in two days (vs. three-month wait).  
-* **98 % cost reduction** – \< \$5 per coupler vs. \$300 motor-assembly.  
-* **Future-proofed maintenance** – facility now has **digital stock** and can produce replacements the same day a failure occurs.
+### My Solution
+1. **On-site Measurement:** Accurately captured critical dimensions using digital calipers.
+2. **Design for Additive Manufacturing (DfAM):** Engineered a redesigned coupler optimized specifically for additive manufacturing, incorporating enhanced structural features such as reinforced fillets and a widened hub to improve durability and performance.
+3. **Rapid Prototyping:** Created an initial prototype using robust, engineering-grade materials suitable for additive manufacturing.
+4. **Fit and Installation Verification:** Successfully installed prototype, with HVAC technicians confirming precise fit, alignment, and torque transfer.
+5. **Final Production:** Delivered replacement parts and additional spares printed in carbon-fiber nylon, providing high strength and excellent temperature resistance.
+
+### Impact
+- **Cost Efficiency:** Achieved approximately 98% cost reduction from original OEM assembly price.
+- **Future-Proof Maintenance:** Facility now possesses immediate access to durable spares, ensuring operational continuity.
