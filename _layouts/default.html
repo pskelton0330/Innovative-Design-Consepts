@@ -21,7 +21,7 @@
       <h3 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h3>
       <div id="typing-overlay"></div>
     <div id="cad-scroller">
-      {% assign scroller_images = site.static_files | where: 'dir', '/assets' | where_exp: 'img', "img.extname == '.png'" %}
+      {% assign scroller_images = site.static_files | where: 'extname', '.png' | where_exp: 'img', "img.path contains '/assets/'" %}
       {% for img in scroller_images %}<img src="{{ img.path | relative_url }}" alt="CAD render">{% endfor %}
       {% for img in scroller_images %}<img src="{{ img.path | relative_url }}" alt="CAD render">{% endfor %}
     </div>
