@@ -1,15 +1,15 @@
 ---
 layout: default
-title: "Custom Light-Pole Caps Save $400 k"
+title: "Tailored Retrofit: How 3D Printing Prevented a $400K Expense"
 ---
 ### The Challenge
-1960s-era light poles at Dulles had a geometry no longer manufactured.
-LED retrofits left the tops exposed; full pole replacement was quoted at **$400k**.
+A customer was exploring the replacement of 264 vintage 1960s-era light poles at an estimated cost of $400,000 to accommodate an LED lighting upgrade. These poles had long been discontinued, and no accessories or compatible components remained in production. Consequently, no off-the-shelf solutions were available to effectively waterproof the pole tops after the retrofit, leaving them exposed and vulnerable.
 
 ### My Solution
-* Measured pole head → modelled exact profile in **Fusion 360**
-* Printed **264** UV-resistant **ASA** caps on Voron 2.4 & Bambu X1C
-* Delivered watertight fit; install crew finished retrofit on schedule.
+* Conducted detailed on-site measurements and developed precise digital models of the pole head profile.
+* Fabricated **264** custom, UV-resistant **ASA** caps utilizing advanced FDM 3D printing technology.
+* Delivered a watertight, custom-fit solution, enabling the installation crew to successfully complete the retrofit on schedule.
 
 ### Impact
-**$400,000 saved • 60% lead-time reduction • Historic look preserved**
+* **$400,000 in cost savings**
+* **Preservation of the facility’s original historical aesthetic**
