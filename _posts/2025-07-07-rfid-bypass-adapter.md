@@ -1,8 +1,7 @@
 ---
-title: "RFID-Bypass Adapter Cuts Soap Costs $500 k/yr"
 layout: default
+title: "RFID-Bypass Adapter Cuts Soap Costs $500 k/yr"
 ---
-
 ### The Challenge
 New terminal restrooms at **Reagan National Airport** included sinks with proprietary Purell® soap dispensers.
 Each refill cartridge has an RFID tag; non-authorized soap is rejected, locking MWAA into **$0.56 / oz** consumables (up from $0.04 / oz). Projected annual over-spend: **≈ $500 000**.

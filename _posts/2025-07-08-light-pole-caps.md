@@ -1,8 +1,7 @@
 ---
-title: Custom Light-Pole Caps Save $400 k
 layout: default
+title: "Custom Light-Pole Caps Save $400 k"
 ---
-![Installed cap](/assets/img/light-cap.png)
 ### The Challenge
 1960s-era light poles at Dulles had a geometry no longer manufactured.
 LED retrofits left the tops exposed; full pole replacement was quoted at **$400k**.
