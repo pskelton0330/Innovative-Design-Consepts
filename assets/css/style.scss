@@ -72,3 +72,8 @@ body::before {
   margin-right: 1rem;
   text-decoration: none;
 }
+
+/* Improve link readability against the background */
+a {
+  text-shadow: 0 0 3px rgba(0, 0, 0, 0.6);
+}
