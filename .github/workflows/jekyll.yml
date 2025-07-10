@@ -1,4 +1,5 @@
 name: Build & Deploy Jekyll site to GitHub Pages
+
 on:
   push:
     branches: ["main"]
@@ -22,14 +23,15 @@ jobs:
           ruby-version: '3.1'
       - run: bundle install --path vendor/bundle
       - run: bundle exec jekyll build -d _site
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v3     # ← v3 wrapper uses the new v4 backend
         with:
           path: _site
+
   deploy:
     needs: build
     runs-on: ubuntu-latest
     environment:
       name: github-pages
     steps:
-      - id: deploy
+      - id: deployment
         uses: actions/deploy-pages@v4
