@@ -22,7 +22,7 @@ jobs:
           ruby-version: '3.1'
       - run: bundle install --path vendor/bundle
       - run: bundle exec jekyll build -d _site
-      - uses: actions/upload-pages-artifact@v2
+      - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
   deploy:
@@ -32,4 +32,4 @@ jobs:
       name: github-pages
     steps:
       - id: deploy
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
