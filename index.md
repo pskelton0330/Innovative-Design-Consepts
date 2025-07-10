@@ -11,7 +11,7 @@ and delivering custom solutions that don't exist on the open market.
 ### Featured Case Studies
 * [Tailored Retrofit: How 3D Printing Prevented a $400K Expense]({{ "/2025/07/08/light-pole-caps.html" | relative_url }})
 * [Smart Adaptation: 3D Printing Solutions for Facility Maintenance Savings]({{ "/2025/07/07/rfid-bypass-adapter.html" | relative_url }})
-* [Chiller Valve Coupler: 98 % Cost-Cut, Same-Day Spares for Legacy HVAC]({{ "/2025/07/06/obsolete-hvac-linkage.html" | relative_url }})
+* [Legacy Equipment, Modern Solution: 3D-Printed Couplers Restore Critical Systems]({{ "/2025/07/06/obsolete-hvac-linkage.html" | relative_url }})
 
 ### Services
 * Reverse-engineering & CAD model creation
