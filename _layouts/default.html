@@ -21,8 +21,21 @@
       <h3 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h3>
       <div id="typing-overlay"></div>
     <div id="cad-scroller">
-      <img src="{{ '/assets/img/background.png' | relative_url }}" alt="CAD render">
-      <img src="{{ '/assets/img/light-cap.png' | relative_url }}" alt="CAD render">
+      {% assign scroller_images = site.static_files | where: "extname", ".png" %}
+      {% for img in scroller_images %}
+        {% if img.path contains '/assets/' %}
+          {% unless img.path contains '/assets/img/' or img.path contains '/assets/css/' or img.path contains '/assets/js/' %}
+            <img src="{{ img.path | relative_url }}" alt="CAD render">
+          {% endunless %}
+        {% endif %}
+      {% endfor %}
+      {% for img in scroller_images %}
+        {% if img.path contains '/assets/' %}
+          {% unless img.path contains '/assets/img/' or img.path contains '/assets/css/' or img.path contains '/assets/js/' %}
+            <img src="{{ img.path | relative_url }}" alt="CAD render">
+          {% endunless %}
+        {% endif %}
+      {% endfor %}
     </div>
       <nav class="site-nav">
         <a href="{{ '/' | relative_url }}">Home</a>
