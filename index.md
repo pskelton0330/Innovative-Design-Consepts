@@ -4,6 +4,7 @@ title: "3D Innovation and Design Concepts"
 ---
 
 ## Welcome
+**Site last updated:** {{ "now" | date: "%Y-%m-%d %H:%M %Z" }}
 I save organizations time and money by redesigning obsolete parts, slashing lead times,
 and delivering custom solutions that don't exist on the open market.
 
