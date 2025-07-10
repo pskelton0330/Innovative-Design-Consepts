@@ -73,11 +73,17 @@ body::before {
   text-decoration: none;
 }
 
+/* Improve link readability */
+a {
+  text-shadow: 0 0 3px rgba(0,0,0,.6);
+}
+
+/* Headings: bright green for better visibility (demo) */
 .main-content h1,
 .main-content h2,
 .main-content h3,
 .main-content h4,
 .main-content h5,
 .main-content h6 {
-  color: #00ff00; /* bright green for better visibility */
+  color: #00ff00;
 }
