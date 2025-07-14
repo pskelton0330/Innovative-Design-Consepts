@@ -5,3 +5,4 @@ show_downloads: false
 url: "https://example.com"
 baseurl: "/Innovative-Design-Consepts"
 company_name: "3D Innovation and Design Concepts"
+future: true
