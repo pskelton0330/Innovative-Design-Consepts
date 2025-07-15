@@ -9,7 +9,7 @@ and delivering custom solutions that don't exist on the open market.
 [About Me](about.html)
 
 ### Featured Case Studies
-* [Beyond Plastic: Engineering Sustainable Alternatives]({{ "/2025/07/10/beyond-plastic.html" | relative_url }})
+* [Beyond Plastic: Durable Hybrid Couplers for Critical Machinery]({{ "/2025/07/09/beyond-plastic-hybrid-coupler.html" | relative_url }})
 * [Tailored Retrofit: How 3D Printing Prevented a $400K Expense]({{ "/2025/07/08/light-pole-caps.html" | relative_url }})
 * [Smart Adaptation: 3D Printing Solutions for Facility Maintenance Savings]({{ "/2025/07/07/rfid-bypass-adapter.html" | relative_url }})
 * [Legacy Equipment, Modern Solution: 3D-Printed Couplers Restore Critical Systems]({{ "/2025/07/06/obsolete-hvac-linkage.html" | relative_url }})
